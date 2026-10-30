@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^7.9.2",
     "@clerk/ui": "^1.32.3",
+    "@hello-pangea/dnd": "^18.0.1",
     "@prisma/adapter-pg": "^7.10.1",
     "@prisma/client": "^7.10.1",
     "@supabase/supabase-js": "^2.118.0",
